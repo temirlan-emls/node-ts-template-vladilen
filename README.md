@@ -1,9 +1,9 @@
 ﻿# node-ts-template-vladilen
-__
-Package manager: YARN__
-__
-"yarn run dev" - run dev server with NODEMON__
-"yarn run build" - build prod server__
-"yarn run start" - run prod server__
-"yarn run lint" - lint ./src/**/*__
-"yarn run format" lint --fix ./src/**/*__
+ <br />
+Package manager: YARN <br />
+ <br />
+"yarn run dev" - run dev server with NODEMON <br />
+"yarn run build" - build prod server <br />
+"yarn run start" - run prod server <br />
+"yarn run lint" - lint "./src/**/*" <br />
+"yarn run format" lint --fix "./src/**/*" <br />
